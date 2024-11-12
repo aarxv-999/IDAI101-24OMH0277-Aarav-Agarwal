@@ -10,3 +10,5 @@ Ok sign: Activate security system <br/>
 L sign: Increase Air Conditioning temperature <br/>
 Three fingers up: Turn on fan <br/>
 Four fingers up: Lock all doors <br/>
+
+For the sake of a prototype, I have included images of people of dark and light skin tones for some diversity, while the training data is not extremely diverse, an actual model could include 100-200 images of every skin tone.
