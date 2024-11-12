@@ -21,6 +21,7 @@ In the future with smart homes, we could implement cameras around the house whic
 
 Furthermore, a potential higher level feature for this model could be fingerprint recognition; just from putting your hands up, it would look at your fingerprints for authorization to avoid actions being performed by strangers or unauthorized members. Although this feature would require extremely high quality cameras. 
 
+Here's a link to try out my model: https://teachablemachine.withgoogle.com/models/sQ8KDJNMp/
 
 ![image](https://github.com/user-attachments/assets/501d6644-c7e2-45a3-9cad-377cf730bc45)
 ![image](https://github.com/user-attachments/assets/274b580f-dafc-4834-b962-0d7834733632)
@@ -28,4 +29,12 @@ Furthermore, a potential higher level feature for this model could be fingerprin
 ![image](https://github.com/user-attachments/assets/f01834bd-835d-45c2-a462-743bddcf9c53)
 ![image](https://github.com/user-attachments/assets/944bb6b3-0093-4a24-b233-d6fabd61a588)
 
+
+### Citations
+https://chatgpt.com/
+https://gemini.google.com/app
+https://deepai.org/machine-learning-model/text2img
+https://www.shutterstock.com/
+https://www.alamy.com/ 
+https://depositphotos.com/
 
