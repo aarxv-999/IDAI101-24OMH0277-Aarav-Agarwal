@@ -24,4 +24,8 @@ Furthermore, a potential higher level feature for this model could be fingerprin
 
 ![image](https://github.com/user-attachments/assets/501d6644-c7e2-45a3-9cad-377cf730bc45)
 ![image](https://github.com/user-attachments/assets/274b580f-dafc-4834-b962-0d7834733632)
+![image](https://github.com/user-attachments/assets/3e0fe898-e87b-4d71-99e5-5567b419144d)
+![image](https://github.com/user-attachments/assets/f01834bd-835d-45c2-a462-743bddcf9c53)
+![image](https://github.com/user-attachments/assets/944bb6b3-0093-4a24-b233-d6fabd61a588)
+
 
