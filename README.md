@@ -3,10 +3,28 @@
 
 The project that I have decided to pick is the gesture recognition system, where if the user makes a certain gesture, the AI model will perform an action in the smart home. The list of the gestures and the potential actions are as follows: <br/>
 
+The project idea that I have selected is the gesture recognition model, where if the user makes certain hand gestures, the AI model will recognize the respective action in a smart home. In this README file, I will explain the following:
+- Data collection process
+- Diversity of data
+- Usage of Google Teachable Machines for the project
+- Features and functionalities of the model
+- Evaluating the data
+- Real world applications
+
+### Data Collection Process
+There are three different ways I collected data, as follows: 
+
+1. Google: I used Google Images and lots of stock image websites to collect the data of the hand gestures for this model. The websites and stock image platforms used are stated in the citations
+2. AI generation: Using image generation AI, I generated the hand gestures for the model in different poses.
+3. Taking pictures: I took pictures of myself doing the gestures.
+
+### Diversity of the data
+The data that I have collected is 
+
 Open palm: Turn on lights <br/>
 Closed fist: Turn off lights <br/>
 Peace sign: Play/pause music <br/>
-Ok sign: Activate security system <br/>
+Ok sign: Activate security system <br/> 
 C sign: Increase Air Conditioning temperature <br/>
 
 For the training data, I decided to include images of people with dark skin and light skin doing the gestures for the sake of diversity. Since this is a prototype, only 2 primary skin tones were considered, but if this model were to officially be released, it would make use of many more races for diversity. <br/>
